@@ -1,0 +1,9 @@
+config.php
+.venv
+venv/
+
+/node_modules/
+/vendor/
+
+*.log
+*.tmp
